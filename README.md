@@ -1,2 +1,2 @@
-webproject1
+sencha-wizard
 ===========
